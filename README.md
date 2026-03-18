@@ -76,15 +76,15 @@ Artifacts are located in the `qa-artifacts` folder:
 
 ### JIRA Board Workflow
 
-![JIRA Board](qa-artifacts/jira-board-workflow.png)
+![JIRA Board](qa-artifact/jira-board-workflow.png)
 
 ### Bug Report Example
 
-![Bug Report](qa-artifacts/jira-bug-report.png)
+![Bug Report](qa-artifact/jira-bug-report.png)
 
 ### Sprint Backlog
 
-![Sprint Backlog](qa-artifacts/jira-sprint-backlog.png)
+![Sprint Backlog](qa-artifact/jira-sprint-backlog.png)
 
 ---
 
